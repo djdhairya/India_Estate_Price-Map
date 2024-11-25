@@ -122,7 +122,7 @@ This project makes use of the following Python libraries:
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/your-repo-url.git  
+   git clone https://github.com/djdhairya/India_Estate_Price-Map.git  
      
    ```  
 
